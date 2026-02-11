@@ -1,5 +1,5 @@
-This folder contains SQL-based analytical case studies focused on customer, revenue, and retail analysis.
+This folder contains interactive dashboard projects created using Power BI.
 
 Projects:
-- Customer & Revenue Analysis
-- Retail Sales & Customer Analysis
+- Business Performance Dashboard
+
