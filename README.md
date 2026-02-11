@@ -1,2 +1,3 @@
 # data-analytics-case-studies
-all the case studies and projects for data analytics
+Hands-on data analytics projects using Excel, SQL, and Power BI focused on business insights.
+
